@@ -1,0 +1,21 @@
+name: Auto-Purge jsDelivr CDN
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - '**/*.json'
+  workflow_dispatch:
+
+jobs:
+  purge:
+    name: Purge Global CDN Edge
+    runs-on: ubuntu-latest
+    steps:
+      - name: Flush jsDelivr Edge Cache
+        run: |
+          echo "Flushing jsDelivr CDN edge for viral_ai_prompts/prompts.json..."
+          RESPONSE=$(curl -sS -w "\nHTTP_STATUS:%{http_code}" -X GET "https://purge.jsdelivr.net/gh/Riyaz-khan-shuvo/app_json@main/viral_ai_prompts/prompts.json")
+          echo "$RESPONSE"
+          echo "CDN edge successfully renewed across Cloudflare & Fastly!"
