@@ -1,0 +1,218 @@
+[
+  {
+    "id": "seed-photo-001",
+    "titleEn": "Ultra-Realistic Golden Hour Street Portrait",
+    "titleBn": "গোল্ডেন আওয়ার সিনেমাটিক স্ট্রিট পোর্ট্রেট",
+    "promptText": "Close-up cinematic portrait of a 24-year-old South Asian woman with expressive brown eyes, wind-swept loose hair, subtle golden backlight catching strands of hair. Warm evening sunlight, shallow depth of field, 85mm f/1.4 lens, natural skin texture with subtle pores, authentic film grain, captured on Kodak Portra 400 --ar 4:5 --v 6.1 --stylize 250",
+    "banglaPromptText": "২৪ বছর বয়সী নারীর সিনেমাটিক স্ট্রিট পোর্ট্রেট, বাতাসে ওড়া চুল, মিষ্টি সোনালী ব্যাকলাইট, প্রাকৃতিক ত্বকের টেক্সচার ও ড্রামাটিক ডেপথ অফ ফিল্ড।",
+    "instructionsEn": "Paste directly into Midjourney v6.1 or Flux.1 Dev. Works best with 4:5 aspect ratio for Instagram and Facebook portrait shares. Do not use generic beauty filter words.",
+    "instructionsBn": "মিডজার্নি বা ফ্লাক্স-এ সরাসরি পেস্ট করুন। ফেসবুক বা ইনস্টাগ্রাম পোর্ট্রেটের জন্য ৪:৫ সাইজে সেরা রেজাল্ট আসে।",
+    "category": "photo",
+    "supportedTools": ["midjourney", "flux", "dalle"],
+    "parameters": {
+      "Aspect Ratio": "--ar 4:5",
+      "Model Version": "Midjourney v6.1 / Flux.1",
+      "Stylize": "--stylize 250",
+      "Camera Lens": "85mm f/1.4"
+    },
+    "badge": "editorPick",
+    "sampleImageUrl": null,
+    "copyCount": 142,
+    "viewCount": 680,
+    "createdAt": "2026-10-25T12:00:00.000Z",
+    "tags": ["portrait", "cinematic", "golden hour", "realistic", "flux"]
+  },
+  {
+    "id": "seed-photo-002",
+    "titleEn": "Vintage Aesthetic Couple Photography in Rain",
+    "titleBn": "বৃষ্টিতে ভিন্টেজ কাপল সিনেমাটিক ফটোগ্রাফি",
+    "promptText": "A romantic couple sharing a vintage black umbrella in gentle monsoon rain on a nostalgic brick street, wet reflections on glistening pavement, subtle warm street lamps glowing in background, authentic emotional eye contact, 1990s South Asian cinema aesthetic, cinematic anamorphic bokeh, 35mm film photography --ar 16:9 --v 6.1 --chaos 10",
+    "banglaPromptText": "বৃষ্টিভেজা রাজপথে কালো ছাতার নিচে রোমান্টিক কাপল, নিয়ন ও ল্যাম্পপোস্টের প্রতিফলন, ৯০ দশকের ক্ল্যাসিক সিনেমাটিক ভাইব।",
+    "instructionsEn": "Ideal for storytelling visuals and couple photo shoots. Can be adjusted for traditional attire like Panjabi and Saree.",
+    "instructionsBn": "গল্পভিত্তিক কাপল ফটোগ্রাফির জন্য দারুণ। পাঞ্জাবি বা শাড়ি যোগ করে আরও দেশীয় লুক আনা যায়।",
+    "category": "photo",
+    "supportedTools": ["midjourney", "flux"],
+    "parameters": {
+      "Aspect Ratio": "--ar 16:9",
+      "Film Stock": "35mm anamorphic",
+      "Chaos": "--chaos 10"
+    },
+    "badge": "communityFavorite",
+    "sampleImageUrl": null,
+    "copyCount": 98,
+    "viewCount": 420,
+    "createdAt": "2026-10-24T12:00:00.000Z",
+    "tags": ["couple", "monsoon", "rain", "vintage", "cinematic"]
+  },
+  {
+    "id": "seed-photo-003",
+    "titleEn": "Luxury Executive Studio Headshot (LinkedIn Viral)",
+    "titleBn": "এক্সিকিউটিভ প্রফেশনাল হেডশট (লিংকডইন স্পেশাল)",
+    "promptText": "Professional modern studio headshot of a confident executive smiling warmly, wearing a tailored charcoal navy blazer with crisp white shirt, clean studio background with gradient rim light, Hasselblad H6D-100c medium format camera, crisp sharp focus, editorial magazine lighting --ar 1:1 --v 6.1",
+    "banglaPromptText": "কনফিডেন্ট হাসিমুখ কর্পোরেট হেডশট, ব্লেজার ও হোয়াইট শার্ট, ব্যাকগ্রাউন্ডে সফট রিম লাইট, ম্যাগাজিন কোয়ালিটি লাইটিং।",
+    "instructionsEn": "Use this to generate ultra-clean avatar photos for LinkedIn, resume, or executive profiles.",
+    "instructionsBn": "লিংকডইন বা প্রফেশনাল প্রোফাইল ছবির জন্য ১:১ স্কয়ার সাইজে ব্যবহার করুন।",
+    "category": "photo",
+    "supportedTools": ["midjourney", "flux", "chatGpt"],
+    "parameters": {
+      "Aspect Ratio": "--ar 1:1",
+      "Camera": "Hasselblad medium format",
+      "Lighting": "Editorial 3-point lighting"
+    },
+    "badge": "editorPick",
+    "sampleImageUrl": null,
+    "copyCount": 210,
+    "viewCount": 910,
+    "createdAt": "2026-10-23T12:00:00.000Z",
+    "tags": ["headshot", "linkedin", "professional", "studio", "business"]
+  },
+  {
+    "id": "seed-video-001",
+    "titleEn": "FPV Drone Cinematic Hyperlapse Through Neon City",
+    "titleBn": "নিওন সিটিতে এফপিভি ড্রোন সিনেমাটিক হাইপারল্যাপ্স",
+    "promptText": "Fast-paced FPV continuous drone dive starting from high above stormy skyscraper clouds descending smoothly into vibrant cyberpunk neon alleyways, realistic light reflections on damp asphalt, motion blur on fast corners, smooth gimbal leveling, 4K 60fps cinematic movement, cinematic color grade Teal and Orange.",
+    "banglaPromptText": "মেঘের ওপর থেকে নিচে নিওন আলোর রাজপথে দ্রুতগামী ড্রোন ট্রাভেল শট, বৃষ্টিভেজা রোডে লাইটের রিফ্লেকশন এবং স্মুথ মোশন।",
+    "instructionsEn": "Paste directly into Runway Gen-3 Alpha, Sora, or Luma Dream Machine. Keep camera motion prompt strict to avoid morphing.",
+    "instructionsBn": "রানওয়ে জেন-৩ বা সোরা তে সরাসরি পেস্ট করুন। ক্যামেরা মোশন স্টেডি রাখতে টেক্সট অপরিবর্তিত রাখুন।",
+    "category": "video",
+    "supportedTools": ["runway", "sora", "luma", "kling"],
+    "parameters": {
+      "Frame Rate": "60 FPS",
+      "Motion Strength": "5 / 10",
+      "Camera Motion": "FPV dive + forward push"
+    },
+    "badge": "verifiedTrending",
+    "sampleImageUrl": null,
+    "copyCount": 185,
+    "viewCount": 750,
+    "createdAt": "2026-10-26T00:00:00.000Z",
+    "tags": ["drone", "fpv", "runway", "sora", "cyberpunk", "video"]
+  },
+  {
+    "id": "seed-video-002",
+    "titleEn": "120fps Macro Coffee Pour with Rising Steam",
+    "titleBn": "ম্যাক্রো স্লো মোশন কফি পোর ও ধোঁয়াশা শট",
+    "promptText": "Extreme macro slow motion 120fps shot of rich hot espresso pouring into a clear double-walled glass cup, dense hazelnut crema forming swirling patterns, fine micro-droplets, soft morning sunlight illuminating volumetric rising steam, shallow focus.",
+    "banglaPromptText": "স্বচ্ছ কাঁচের কাপে গরম এসপ্রেসো ঢালার স্লো-মোশন ক্লোজআপ, সুন্দর ক্রিমের ঘূর্ণি ও সকালের আলোয় ধোঁয়ার রেশ।",
+    "instructionsEn": "Great for food & beverage TikTok, Reels, and cafe commercials. Works exceptionally well on Luma Dream Machine and Kling AI.",
+    "instructionsBn": "ক্যাফে বা ফুড ভিডিও রিলস বানাতে অত্যন্ত কার্যকর। লুমা ও ক্লিং এ মসৃণ রেজাল্ট দেয়।",
+    "category": "video",
+    "supportedTools": ["luma", "kling", "runway"],
+    "parameters": {
+      "Speed": "120 FPS Slow Motion",
+      "Shot Type": "Macro Close-Up"
+    },
+    "badge": "newlyAdded",
+    "sampleImageUrl": null,
+    "copyCount": 64,
+    "viewCount": 310,
+    "createdAt": "2026-10-26T06:00:00.000Z",
+    "tags": ["macro", "slow motion", "coffee", "commercial", "reels"]
+  },
+  {
+    "id": "seed-art-001",
+    "titleEn": "3D Glossy Glassmorphic App Icon (iOS 18 Style)",
+    "titleBn": "৩ডি গ্লাসমরফিক লাক্সারি অ্যাপ আইকন (iOS স্টাইল)",
+    "promptText": "Modern 3D isometric app icon of a glowing holographic brain intertwining with digital synapses, rounded squircle shape, frosted translucent frosted glass texture, vibrant purple and cyan inner ambient glow, Ray-traced subsurface scattering, clean smooth studio background, Octane render, 8k --ar 1:1 --v 6.1",
+    "banglaPromptText": "গ্লোয়িং ব্রেন ও সাইন্যাপ্স সহ ট্রান্সলুসেন্ট গ্লাসের তৈরি আধুনিক ৩ডি স্কোয়ারকেল অ্যাপ আইকন, পার্পল ও সায়ান আভা।",
+    "instructionsEn": "Perfect for mobile app logos, dribbble portfolio shots, and UI asset design.",
+    "instructionsBn": "অ্যাপ লোগো বা আধুনিক UI ডিজাইনের জন্য নিখুঁত প্রম্পট।",
+    "category": "artDesign",
+    "supportedTools": ["midjourney", "flux", "dalle"],
+    "parameters": {
+      "Aspect Ratio": "--ar 1:1",
+      "Renderer": "Octane Render 8K",
+      "Style": "Apple iOS 18 Design Language"
+    },
+    "badge": "editorPick",
+    "sampleImageUrl": null,
+    "copyCount": 172,
+    "viewCount": 820,
+    "createdAt": "2026-10-22T12:00:00.000Z",
+    "tags": ["icon", "glassmorphism", "3d", "ui/ux", "dribbble"]
+  },
+  {
+    "id": "seed-art-002",
+    "titleEn": "Luxury Minimalist Perfume Bottle On Black Obsidian Stone",
+    "titleBn": "লাক্সারি পারফিউম বোতল ও মিনিমালিস্ট প্রোডাক্ট শট",
+    "promptText": "Commercial studio product photography of an amber glass luxury perfume bottle resting on a raw cracked black obsidian rock, calm water surface around with concentric ripple waves, subtle gold foil typography on label, dramatic low-key spotlighting, Hasselblad 120mm macro, Vogue advertisement standard --ar 4:5 --v 6.1",
+    "banglaPromptText": "কালো অবসিডিয়ান পাথরের উপর সুদৃশ্য পারফিউমের বোতল, পানিতে মৃদু ঢেউ ও ড্রামাটিক স্পটলাইট।",
+    "instructionsEn": "Commercial grade product mockup prompt. Replace \"perfume bottle\" with watch, skincare cream, or beverage bottle as needed.",
+    "instructionsBn": "যেকোনো প্রোডাক্ট বিজ্ঞাপনের জন্য পারফিউমের জায়গায় ঘড়ি বা কসমেটিকস নাম বসিয়ে ব্যবহার করুন।",
+    "category": "artDesign",
+    "supportedTools": ["midjourney", "flux"],
+    "parameters": {
+      "Aspect Ratio": "--ar 4:5",
+      "Lighting": "Dramatic Low-Key Rim Light"
+    },
+    "badge": "communityFavorite",
+    "sampleImageUrl": null,
+    "copyCount": 118,
+    "viewCount": 540,
+    "createdAt": "2026-10-21T12:00:00.000Z",
+    "tags": ["product", "commercial", "luxury", "branding", "packshot"]
+  },
+  {
+    "id": "seed-biz-001",
+    "titleEn": "High-Converting SaaS Landing Page Copywriter",
+    "titleBn": "হাই-কনভার্টিং ল্যান্ডিং পেজ কপিরাইটিং ফর্মুলা",
+    "promptText": "Act as a world-class Direct-Response Copywriter who studied under David Ogilvy and Eugene Schwartz. I am launching a new product: [INSERT PRODUCT / SERVICE]. Write a complete, high-converting landing page structure including: 1. A magnetic H1 headline that addresses the #1 painful problem and promises a tangible result. 2. A sub-headline explaining exactly how it works in 15 words. 3. Primary CTA button with low friction text. 4. \"Before vs. After\" transformation grid. 5. Overcoming 3 major buying objections. 6. Social proof placement blueprint. Write in a clear, compelling, conversational tone without fluffy buzzwords.",
+    "banglaPromptText": "একটি সফল ল্যান্ডিং পেজের জন্য বিক্রয় উপযোগী সম্পূর্ণ কপি তৈরি করার মাস্টার প্রম্পট। শিরোনাম, সাব-হেডলাইন, গ্রাহকের দ্বিধাদ্বন্দ্ব দূরীকরণ ও সি-টি-এ বাটন প্ল্যানিং।",
+    "instructionsEn": "Paste into ChatGPT 4o, Gemini 1.5 Pro, or Claude 3.5 Sonnet. Replace [INSERT PRODUCT / SERVICE] with your exact offer.",
+    "instructionsBn": "চ্যাটজিপিটি বা জেমিনাইতে [INSERT PRODUCT / SERVICE] এর স্থানে আপনার পণ্যের নাম দিয়ে রান করুন।",
+    "category": "businessProductivity",
+    "supportedTools": ["chatGpt", "gemini", "claude"],
+    "parameters": {
+      "Tone": "Direct Response, High Urgency, Empathetic",
+      "Output Format": "Structured Markdown Wireframe"
+    },
+    "badge": "editorPick",
+    "sampleImageUrl": null,
+    "copyCount": 310,
+    "viewCount": 1240,
+    "createdAt": "2026-10-24T12:00:00.000Z",
+    "tags": ["copywriting", "saas", "marketing", "sales", "conversion"]
+  },
+  {
+    "id": "seed-biz-002",
+    "titleEn": "Bangla Facebook Ad Campaign & Hook Generator",
+    "titleBn": "বাংলা ফেসবুক অ্যাড ক্যাম্পেইন ও ভাইরাল হুক জেনারেটর",
+    "promptText": "তুমি একজন অভিজ্ঞ ডিজিটাল মার্কেটিং স্পেশালিস্ট এবং ফেসবুক অ্যাড এক্সপার্ট। আমার ব্যবসার বিষয়: [পণ্য বা সেবার নাম লিখুন]। টার্গেট অডিয়েন্স: বাংলাদেশের ১৮-৩৫ বছর বয়সী অনলাইন ক্রেতা। আমার জন্য ৩টি ভিন্ন আঙ্গিকের ফেসবুক অ্যাড কপি লিখ: ১) ইমোশনাল স্টোরিটেলিং অ্যাপ্রোচ (সমস্যা ও সমাধান নিয়ে বাস্তব জীবনের গল্প), ২) ডিসকাউন্ট ও ইনস্ট্যান্ট আর্জেন্সি অ্যাপ্রোচ (সীমিত সময়ের অফার ও ক্যাশ অন ডেলিভারি সুবিধা), ৩) শিক্ষণীয় ইনফোগ্রাফিক স্টাইল পোস্ট ক্যাপশন। প্রতিটি কপির সাথে দৃষ্টি আকর্ষণকারী বাংলা হুক এবং কার্যকর Call To Action যুক্ত করবে।",
+    "banglaPromptText": "বাংলাদেশের ই-কমার্স ও ফেসবুক পেজের বিক্রয় বৃদ্ধির জন্য ৩ ধরণের আকর্ষণীয় ফেসবুক অ্যাড কপি তৈরির মাস্টার প্রম্পট।",
+    "instructionsEn": "Designed specifically for Bangladeshi online sellers and F-commerce entrepreneurs in fluent conversational Bangla.",
+    "instructionsBn": "চ্যাটজিপিটি বা ক্লদে হুবহু পেস্ট করুন এবং আপনার পণ্যের নাম দিন। দুর্দান্ত বাংলা ভাষায় অ্যাড কপি পাবেন।",
+    "category": "businessProductivity",
+    "supportedTools": ["chatGpt", "gemini", "claude"],
+    "parameters": {
+      "Language": "Bengali (বাংলা)",
+      "Target Platform": "Facebook & Instagram Ads BD"
+    },
+    "badge": "communityFavorite",
+    "sampleImageUrl": null,
+    "copyCount": 265,
+    "viewCount": 1100,
+    "createdAt": "2026-10-23T12:00:00.000Z",
+    "tags": ["bangla", "facebook ads", "ecommerce", "marketing", "f-commerce"]
+  },
+  {
+    "id": "seed-code-001",
+    "titleEn": "Flutter Clean Architecture Production Boilerplate",
+    "titleBn": "ফ্লাটার ক্লিন আর্কিটেকচার ফিচার জেনারেটর",
+    "promptText": "Act as a Senior Principal Flutter Architect. I want to build a feature called: [FEATURE_NAME]. Generate production-ready Flutter and Dart code following strict Clean Architecture with: 1. Domain Layer (Entities, Value Objects, Repository Interfaces). 2. Data Layer (Models with fromJson/toJson, RemoteDataSource, LocalDataSource with Hive/SharedPreferences, and Repository Implementation). 3. Presentation Layer (State management using Riverpod / ChangeNotifier, Screens, and clean re-usable Widgets). Include error handling with Result/Either types and no code placeholders.",
+    "banglaPromptText": "প্রফেশনাল ফ্লাটার ক্লিন আর্কিটেকচার অনুযায়ী যেকোনো ফিচার তৈরি করার পূর্ণাঙ্গ আর্কিটেকচার কোড জেনারেটর প্রম্পট।",
+    "instructionsEn": "Paste into Claude 3.5 Sonnet or ChatGPT 4o for pristine, compile-ready Flutter code architecture.",
+    "instructionsBn": "ক্লদ বা চ্যাটজিপিটিতে [FEATURE_NAME] এর নাম বদলে দিয়ে ব্যবহার করুন।",
+    "category": "coding",
+    "supportedTools": ["claude", "chatGpt", "gemini"],
+    "parameters": {
+      "Standard": "Clean Architecture + Repository Pattern",
+      "Language": "Dart 3.x / Flutter 3.x"
+    },
+    "badge": "editorPick",
+    "sampleImageUrl": null,
+    "copyCount": 198,
+    "viewCount": 880,
+    "createdAt": "2026-10-20T12:00:00.000Z",
+    "tags": ["flutter", "dart", "coding", "architecture", "developer"]
+  }
+]
