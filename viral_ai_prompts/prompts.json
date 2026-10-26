@@ -8,7 +8,11 @@
     "instructionsEn": "Paste directly into Midjourney v6.1 or Flux.1 Dev. Works best with 4:5 aspect ratio for Instagram and Facebook portrait shares. Do not use generic beauty filter words.",
     "instructionsBn": "মিডজার্নি বা ফ্লাক্স-এ সরাসরি পেস্ট করুন। ফেসবুক বা ইনস্টাগ্রাম পোর্ট্রেটের জন্য ৪:৫ সাইজে সেরা রেজাল্ট আসে।",
     "category": "photo",
-    "supportedTools": ["midjourney", "flux", "dalle"],
+    "supportedTools": [
+      "midjourney",
+      "flux",
+      "dalle"
+    ],
     "parameters": {
       "Aspect Ratio": "--ar 4:5",
       "Model Version": "Midjourney v6.1 / Flux.1",
@@ -19,8 +23,14 @@
     "sampleImageUrl": null,
     "copyCount": 142,
     "viewCount": 680,
-    "createdAt": "2026-10-25T12:00:00.000Z",
-    "tags": ["portrait", "cinematic", "golden hour", "realistic", "flux"]
+    "createdAt": "2026-10-25T12:00:00Z",
+    "tags": [
+      "portrait",
+      "cinematic",
+      "golden hour",
+      "realistic",
+      "flux"
+    ]
   },
   {
     "id": "seed-photo-002",
@@ -31,7 +41,10 @@
     "instructionsEn": "Ideal for storytelling visuals and couple photo shoots. Can be adjusted for traditional attire like Panjabi and Saree.",
     "instructionsBn": "গল্পভিত্তিক কাপল ফটোগ্রাফির জন্য দারুণ। পাঞ্জাবি বা শাড়ি যোগ করে আরও দেশীয় লুক আনা যায়।",
     "category": "photo",
-    "supportedTools": ["midjourney", "flux"],
+    "supportedTools": [
+      "midjourney",
+      "flux"
+    ],
     "parameters": {
       "Aspect Ratio": "--ar 16:9",
       "Film Stock": "35mm anamorphic",
@@ -41,8 +54,14 @@
     "sampleImageUrl": null,
     "copyCount": 98,
     "viewCount": 420,
-    "createdAt": "2026-10-24T12:00:00.000Z",
-    "tags": ["couple", "monsoon", "rain", "vintage", "cinematic"]
+    "createdAt": "2026-10-24T12:00:00Z",
+    "tags": [
+      "couple",
+      "monsoon",
+      "rain",
+      "vintage",
+      "cinematic"
+    ]
   },
   {
     "id": "seed-photo-003",
@@ -53,7 +72,11 @@
     "instructionsEn": "Use this to generate ultra-clean avatar photos for LinkedIn, resume, or executive profiles.",
     "instructionsBn": "লিংকডইন বা প্রফেশনাল প্রোফাইল ছবির জন্য ১:১ স্কয়ার সাইজে ব্যবহার করুন।",
     "category": "photo",
-    "supportedTools": ["midjourney", "flux", "chatGpt"],
+    "supportedTools": [
+      "midjourney",
+      "flux",
+      "chatGpt"
+    ],
     "parameters": {
       "Aspect Ratio": "--ar 1:1",
       "Camera": "Hasselblad medium format",
@@ -63,8 +86,14 @@
     "sampleImageUrl": null,
     "copyCount": 210,
     "viewCount": 910,
-    "createdAt": "2026-10-23T12:00:00.000Z",
-    "tags": ["headshot", "linkedin", "professional", "studio", "business"]
+    "createdAt": "2026-10-23T12:00:00Z",
+    "tags": [
+      "headshot",
+      "linkedin",
+      "professional",
+      "studio",
+      "business"
+    ]
   },
   {
     "id": "seed-video-001",
@@ -75,7 +104,12 @@
     "instructionsEn": "Paste directly into Runway Gen-3 Alpha, Sora, or Luma Dream Machine. Keep camera motion prompt strict to avoid morphing.",
     "instructionsBn": "রানওয়ে জেন-৩ বা সোরা তে সরাসরি পেস্ট করুন। ক্যামেরা মোশন স্টেডি রাখতে টেক্সট অপরিবর্তিত রাখুন।",
     "category": "video",
-    "supportedTools": ["runway", "sora", "luma", "kling"],
+    "supportedTools": [
+      "runway",
+      "sora",
+      "luma",
+      "kling"
+    ],
     "parameters": {
       "Frame Rate": "60 FPS",
       "Motion Strength": "5 / 10",
@@ -85,8 +119,15 @@
     "sampleImageUrl": null,
     "copyCount": 185,
     "viewCount": 750,
-    "createdAt": "2026-10-26T00:00:00.000Z",
-    "tags": ["drone", "fpv", "runway", "sora", "cyberpunk", "video"]
+    "createdAt": "2026-10-26T00:00:00Z",
+    "tags": [
+      "drone",
+      "fpv",
+      "runway",
+      "sora",
+      "cyberpunk",
+      "video"
+    ]
   },
   {
     "id": "seed-video-002",
@@ -97,7 +138,11 @@
     "instructionsEn": "Great for food & beverage TikTok, Reels, and cafe commercials. Works exceptionally well on Luma Dream Machine and Kling AI.",
     "instructionsBn": "ক্যাফে বা ফুড ভিডিও রিলস বানাতে অত্যন্ত কার্যকর। লুমা ও ক্লিং এ মসৃণ রেজাল্ট দেয়।",
     "category": "video",
-    "supportedTools": ["luma", "kling", "runway"],
+    "supportedTools": [
+      "luma",
+      "kling",
+      "runway"
+    ],
     "parameters": {
       "Speed": "120 FPS Slow Motion",
       "Shot Type": "Macro Close-Up"
@@ -106,8 +151,14 @@
     "sampleImageUrl": null,
     "copyCount": 64,
     "viewCount": 310,
-    "createdAt": "2026-10-26T06:00:00.000Z",
-    "tags": ["macro", "slow motion", "coffee", "commercial", "reels"]
+    "createdAt": "2026-10-26T06:00:00Z",
+    "tags": [
+      "macro",
+      "slow motion",
+      "coffee",
+      "commercial",
+      "reels"
+    ]
   },
   {
     "id": "seed-art-001",
@@ -118,7 +169,11 @@
     "instructionsEn": "Perfect for mobile app logos, dribbble portfolio shots, and UI asset design.",
     "instructionsBn": "অ্যাপ লোগো বা আধুনিক UI ডিজাইনের জন্য নিখুঁত প্রম্পট।",
     "category": "artDesign",
-    "supportedTools": ["midjourney", "flux", "dalle"],
+    "supportedTools": [
+      "midjourney",
+      "flux",
+      "dalle"
+    ],
     "parameters": {
       "Aspect Ratio": "--ar 1:1",
       "Renderer": "Octane Render 8K",
@@ -128,8 +183,14 @@
     "sampleImageUrl": null,
     "copyCount": 172,
     "viewCount": 820,
-    "createdAt": "2026-10-22T12:00:00.000Z",
-    "tags": ["icon", "glassmorphism", "3d", "ui/ux", "dribbble"]
+    "createdAt": "2026-10-22T12:00:00Z",
+    "tags": [
+      "icon",
+      "glassmorphism",
+      "3d",
+      "ui/ux",
+      "dribbble"
+    ]
   },
   {
     "id": "seed-art-002",
@@ -140,7 +201,10 @@
     "instructionsEn": "Commercial grade product mockup prompt. Replace \"perfume bottle\" with watch, skincare cream, or beverage bottle as needed.",
     "instructionsBn": "যেকোনো প্রোডাক্ট বিজ্ঞাপনের জন্য পারফিউমের জায়গায় ঘড়ি বা কসমেটিকস নাম বসিয়ে ব্যবহার করুন।",
     "category": "artDesign",
-    "supportedTools": ["midjourney", "flux"],
+    "supportedTools": [
+      "midjourney",
+      "flux"
+    ],
     "parameters": {
       "Aspect Ratio": "--ar 4:5",
       "Lighting": "Dramatic Low-Key Rim Light"
@@ -149,8 +213,14 @@
     "sampleImageUrl": null,
     "copyCount": 118,
     "viewCount": 540,
-    "createdAt": "2026-10-21T12:00:00.000Z",
-    "tags": ["product", "commercial", "luxury", "branding", "packshot"]
+    "createdAt": "2026-10-21T12:00:00Z",
+    "tags": [
+      "product",
+      "commercial",
+      "luxury",
+      "branding",
+      "packshot"
+    ]
   },
   {
     "id": "seed-biz-001",
@@ -161,7 +231,11 @@
     "instructionsEn": "Paste into ChatGPT 4o, Gemini 1.5 Pro, or Claude 3.5 Sonnet. Replace [INSERT PRODUCT / SERVICE] with your exact offer.",
     "instructionsBn": "চ্যাটজিপিটি বা জেমিনাইতে [INSERT PRODUCT / SERVICE] এর স্থানে আপনার পণ্যের নাম দিয়ে রান করুন।",
     "category": "businessProductivity",
-    "supportedTools": ["chatGpt", "gemini", "claude"],
+    "supportedTools": [
+      "chatGpt",
+      "gemini",
+      "claude"
+    ],
     "parameters": {
       "Tone": "Direct Response, High Urgency, Empathetic",
       "Output Format": "Structured Markdown Wireframe"
@@ -170,8 +244,14 @@
     "sampleImageUrl": null,
     "copyCount": 310,
     "viewCount": 1240,
-    "createdAt": "2026-10-24T12:00:00.000Z",
-    "tags": ["copywriting", "saas", "marketing", "sales", "conversion"]
+    "createdAt": "2026-10-24T12:00:00Z",
+    "tags": [
+      "copywriting",
+      "saas",
+      "marketing",
+      "sales",
+      "conversion"
+    ]
   },
   {
     "id": "seed-biz-002",
@@ -182,7 +262,11 @@
     "instructionsEn": "Designed specifically for Bangladeshi online sellers and F-commerce entrepreneurs in fluent conversational Bangla.",
     "instructionsBn": "চ্যাটজিপিটি বা ক্লদে হুবহু পেস্ট করুন এবং আপনার পণ্যের নাম দিন। দুর্দান্ত বাংলা ভাষায় অ্যাড কপি পাবেন।",
     "category": "businessProductivity",
-    "supportedTools": ["chatGpt", "gemini", "claude"],
+    "supportedTools": [
+      "chatGpt",
+      "gemini",
+      "claude"
+    ],
     "parameters": {
       "Language": "Bengali (বাংলা)",
       "Target Platform": "Facebook & Instagram Ads BD"
@@ -191,8 +275,14 @@
     "sampleImageUrl": null,
     "copyCount": 265,
     "viewCount": 1100,
-    "createdAt": "2026-10-23T12:00:00.000Z",
-    "tags": ["bangla", "facebook ads", "ecommerce", "marketing", "f-commerce"]
+    "createdAt": "2026-10-23T12:00:00Z",
+    "tags": [
+      "bangla",
+      "facebook ads",
+      "ecommerce",
+      "marketing",
+      "f-commerce"
+    ]
   },
   {
     "id": "seed-code-001",
@@ -203,7 +293,11 @@
     "instructionsEn": "Paste into Claude 3.5 Sonnet or ChatGPT 4o for pristine, compile-ready Flutter code architecture.",
     "instructionsBn": "ক্লদ বা চ্যাটজিপিটিতে [FEATURE_NAME] এর নাম বদলে দিয়ে ব্যবহার করুন।",
     "category": "coding",
-    "supportedTools": ["claude", "chatGpt", "gemini"],
+    "supportedTools": [
+      "claude",
+      "chatGpt",
+      "gemini"
+    ],
     "parameters": {
       "Standard": "Clean Architecture + Repository Pattern",
       "Language": "Dart 3.x / Flutter 3.x"
@@ -212,7 +306,735 @@
     "sampleImageUrl": null,
     "copyCount": 198,
     "viewCount": 880,
-    "createdAt": "2026-10-20T12:00:00.000Z",
-    "tags": ["flutter", "dart", "coding", "architecture", "developer"]
+    "createdAt": "2026-10-20T12:00:00Z",
+    "tags": [
+      "flutter",
+      "dart",
+      "coding",
+      "architecture",
+      "developer"
+    ]
+  },
+  {
+    "id": "seed-photo-004",
+    "titleEn": "Rainy Neon Street Portrait",
+    "titleBn": "বৃষ্টিভেজা নিওন স্ট্রিট পোর্ট্রেট",
+    "promptText": "Create a photorealistic editorial portrait of the person in the reference image standing on a rain-soaked city street at blue hour, glowing cyan and magenta signs reflected on the pavement, subtle raindrops on jacket, natural skin texture, candid confident expression, cinematic 50mm lens, shallow depth of field, realistic reflections, rich but believable colors, detailed eyes, premium street photography, vertical composition, no text, no watermark.",
+    "banglaPromptText": "রেফারেন্স ছবির ব্যক্তিকে নীল সন্ধ্যার বৃষ্টিভেজা শহরের রাস্তায় দেখাও; সায়ান ও ম্যাজেন্টা নিওন আলো, ভেজা রাস্তায় প্রতিফলন, স্বাভাবিক ত্বকের টেক্সচার, সিনেমাটিক ৫০ মিমি লেন্স, প্রিমিয়াম স্ট্রিট ফটোগ্রাফি।",
+    "instructionsEn": "Upload a photo if your image tool supports reference images. Ask it to preserve the person's recognizable facial features. Use a 4:5 portrait crop.",
+    "instructionsBn": "রেফারেন্স ছবি ব্যবহার করলে মুখের স্বাভাবিক বৈশিষ্ট্য অক্ষুণ্ণ রাখতে বলুন। ৪:৫ পোর্ট্রেট ক্রপ ব্যবহার করুন।",
+    "category": "photo",
+    "supportedTools": [
+      "midjourney",
+      "flux",
+      "dalle",
+      "chatGpt"
+    ],
+    "parameters": {
+      "Aspect Ratio": "4:5",
+      "Style": "Photorealistic editorial",
+      "Lighting": "Blue-hour neon reflections"
+    },
+    "badge": "newlyAdded",
+    "sampleImageUrl": null,
+    "copyCount": 0,
+    "viewCount": 0,
+    "createdAt": "2026-10-26T12:00:00Z",
+    "tags": [
+      "portrait",
+      "rain",
+      "neon",
+      "street photography",
+      "cinematic"
+    ]
+  },
+  {
+    "id": "seed-photo-005",
+    "titleEn": "Golden Hour Cinematic Portrait",
+    "titleBn": "গোল্ডেন আওয়ার সিনেমাটিক পোর্ট্রেট",
+    "promptText": "Use the reference subject to create a natural cinematic portrait during golden hour, warm sunlight outlining the hair and shoulders, soft breeze moving a few strands, authentic expression, realistic skin pores and fine facial details, 85mm portrait lens, creamy background bokeh, subtle film grain, balanced warm highlights and soft shadows, premium magazine photography, no plastic skin, no text, no watermark.",
+    "banglaPromptText": "রেফারেন্স ব্যক্তির গোল্ডেন আওয়ারের স্বাভাবিক সিনেমাটিক পোর্ট্রেট; চুলে সোনালি আলো, হালকা বাতাস, বাস্তব ত্বকের টেক্সচার, ৮৫ মিমি লেন্স ও নরম ব্যাকগ্রাউন্ড বোকেহ।",
+    "instructionsEn": "Best for portrait or profile-photo transformations. Use a reference image when available and request natural facial identity preservation.",
+    "instructionsBn": "পোর্ট্রেট বা প্রোফাইল ছবির জন্য ব্যবহার করুন। সম্ভব হলে রেফারেন্স ছবি দিন।",
+    "category": "photo",
+    "supportedTools": [
+      "midjourney",
+      "flux",
+      "dalle",
+      "chatGpt"
+    ],
+    "parameters": {
+      "Aspect Ratio": "4:5",
+      "Lens": "85mm portrait",
+      "Lighting": "Golden hour"
+    },
+    "badge": "newlyAdded",
+    "sampleImageUrl": null,
+    "copyCount": 0,
+    "viewCount": 0,
+    "createdAt": "2026-10-26T12:00:00Z",
+    "tags": [
+      "portrait",
+      "golden hour",
+      "realistic",
+      "profile photo"
+    ]
+  },
+  {
+    "id": "seed-photo-006",
+    "titleEn": "Luxury Black Outfit Editorial",
+    "titleBn": "লাক্সারি ব্ল্যাক আউটফিট এডিটোরিয়াল",
+    "promptText": "Create a high-end fashion editorial portrait of the reference subject wearing a tailored all-black outfit, standing against a charcoal studio backdrop, dramatic softbox key light with a controlled rim light, confident relaxed pose, realistic fabric texture, natural skin detail, elegant shadows, 85mm lens, luxury fashion campaign aesthetic, clean composition, no logos, no text, no watermark.",
+    "banglaPromptText": "রেফারেন্স ব্যক্তিকে কালো টেইলার্ড পোশাকে চারকোল স্টুডিও ব্যাকগ্রাউন্ডে দেখাও; ড্রামাটিক সফটবক্স লাইট, বাস্তব কাপড়ের টেক্সচার ও লাক্সারি ফ্যাশন ক্যাম্পেইন লুক।",
+    "instructionsEn": "Use for fashion portraits and profile images. Keep clothing and background simple for a premium result.",
+    "instructionsBn": "ফ্যাশন পোর্ট্রেটের জন্য ব্যবহার করুন; প্রিমিয়াম ফলের জন্য পোশাক ও ব্যাকগ্রাউন্ড সিম্পল রাখুন।",
+    "category": "photo",
+    "supportedTools": [
+      "midjourney",
+      "flux",
+      "dalle"
+    ],
+    "parameters": {
+      "Aspect Ratio": "4:5",
+      "Lighting": "Studio key light + rim light",
+      "Style": "Luxury fashion editorial"
+    },
+    "badge": "newlyAdded",
+    "sampleImageUrl": null,
+    "copyCount": 0,
+    "viewCount": 0,
+    "createdAt": "2026-10-26T12:00:00Z",
+    "tags": [
+      "fashion",
+      "black outfit",
+      "editorial",
+      "luxury"
+    ]
+  },
+  {
+    "id": "seed-photo-007",
+    "titleEn": "Traditional South Asian Festive Portrait",
+    "titleBn": "ঐতিহ্যবাহী দক্ষিণ এশীয় উৎসবের পোর্ট্রেট",
+    "promptText": "Create an elegant festive portrait of the reference subject in refined South Asian traditional attire, warm decorative lights in the background, tasteful embroidery and fabric detail, authentic natural expression, soft golden key light, realistic skin texture, gentle depth of field, editorial photography, rich jewel tones without oversaturation, respectful styling, no text, no watermark.",
+    "banglaPromptText": "রেফারেন্স ব্যক্তির ঐতিহ্যবাহী দক্ষিণ এশীয় উৎসবের পোশাকে মার্জিত পোর্ট্রেট; পেছনে উষ্ণ সাজসজ্জার আলো, সূক্ষ্ম এমব্রয়ডারি, স্বাভাবিক অভিব্যক্তি ও বাস্তব ত্বকের টেক্সচার।",
+    "instructionsEn": "Suitable for Eid, wedding-season, and festive portrait concepts. Specify saree, panjabi, sherwani, or another outfit if desired.",
+    "instructionsBn": "ঈদ, বিয়ে বা উৎসবের পোর্ট্রেটের জন্য উপযোগী। চাইলে শাড়ি, পাঞ্জাবি বা শেরওয়ানি উল্লেখ করুন।",
+    "category": "photo",
+    "supportedTools": [
+      "midjourney",
+      "flux",
+      "dalle",
+      "chatGpt"
+    ],
+    "parameters": {
+      "Aspect Ratio": "4:5",
+      "Style": "Festive editorial",
+      "Lighting": "Warm decorative bokeh"
+    },
+    "badge": "newlyAdded",
+    "sampleImageUrl": null,
+    "copyCount": 0,
+    "viewCount": 0,
+    "createdAt": "2026-10-26T12:00:00Z",
+    "tags": [
+      "traditional",
+      "South Asian",
+      "Eid",
+      "festive",
+      "portrait"
+    ]
+  },
+  {
+    "id": "seed-photo-008",
+    "titleEn": "Dreamy Flower Field Portrait",
+    "titleBn": "স্বপ্নময় ফুলের মাঠে পোর্ট্রেট",
+    "promptText": "Photorealistic portrait of the reference subject standing in a field of wildflowers at sunrise, soft pastel sky, flowers softly blurred in the foreground, delicate natural breeze, candid gentle smile, realistic skin and hair detail, 85mm lens at f/1.8, dreamy bokeh, film-inspired color grading, airy composition, no artificial beauty filter, no text, no watermark.",
+    "banglaPromptText": "সূর্যোদয়ে বুনো ফুলের মাঠে রেফারেন্স ব্যক্তির স্বপ্নময় পোর্ট্রেট; প্যাস্টেল আকাশ, সামনের ঝাপসা ফুল, নরম বাতাস ও ফিল্ম-অনুপ্রাণিত রঙ।",
+    "instructionsEn": "Use a portrait reference image and choose a vertical crop for social media.",
+    "instructionsBn": "সোশ্যাল মিডিয়ার জন্য রেফারেন্স ছবি ও ভার্টিক্যাল ক্রপ ব্যবহার করুন।",
+    "category": "photo",
+    "supportedTools": [
+      "midjourney",
+      "flux",
+      "dalle"
+    ],
+    "parameters": {
+      "Aspect Ratio": "4:5",
+      "Lens": "85mm f/1.8",
+      "Color Grade": "Soft film pastel"
+    },
+    "badge": "newlyAdded",
+    "sampleImageUrl": null,
+    "copyCount": 0,
+    "viewCount": 0,
+    "createdAt": "2026-10-26T12:00:00Z",
+    "tags": [
+      "flowers",
+      "dreamy",
+      "portrait",
+      "pastel",
+      "nature"
+    ]
+  },
+  {
+    "id": "seed-photo-009",
+    "titleEn": "Miniature World in a Glass Sphere",
+    "titleBn": "কাঁচের গোলকের ভেতর ক্ষুদ্র জগৎ",
+    "promptText": "Surreal yet photorealistic macro photograph of a tiny enchanted landscape contained inside a clear glass sphere resting on moss, miniature mountains, a winding river and tiny trees visible within, morning dew, physically accurate refraction and caustics, soft cinematic backlight, macro lens, exquisite textures, shallow depth of field, no text, no watermark.",
+    "banglaPromptText": "মসের ওপর রাখা স্বচ্ছ কাঁচের গোলকের ভেতরে ক্ষুদ্র পাহাড়, নদী ও গাছসহ জাদুকরী জগৎ; বাস্তবসম্মত আলো, প্রতিসরণ ও ম্যাক্রো ডিটেইল।",
+    "instructionsEn": "Try a square composition for a striking discovery-style post. Keep the sphere and miniature landscape as the central subject.",
+    "instructionsBn": "দৃষ্টি আকর্ষণকারী পোস্টের জন্য স্কয়ার কম্পোজিশন ব্যবহার করুন।",
+    "category": "photo",
+    "supportedTools": [
+      "midjourney",
+      "flux",
+      "dalle"
+    ],
+    "parameters": {
+      "Aspect Ratio": "1:1",
+      "Lens": "Macro",
+      "Lighting": "Soft cinematic backlight"
+    },
+    "badge": "newlyAdded",
+    "sampleImageUrl": null,
+    "copyCount": 0,
+    "viewCount": 0,
+    "createdAt": "2026-10-26T12:00:00Z",
+    "tags": [
+      "surreal",
+      "macro",
+      "glass sphere",
+      "fantasy",
+      "photorealistic"
+    ]
+  },
+  {
+    "id": "seed-photo-010",
+    "titleEn": "Premium Product Floating in Water",
+    "titleBn": "পানির ওপর ভাসমান প্রিমিয়াম প্রোডাক্ট",
+    "promptText": "Create premium commercial product photography of [PRODUCT] floating just above a perfectly still dark water surface, elegant circular ripples beneath it, precise studio reflections, dramatic edge lighting, fine water droplets suspended in the air, rich dark background, crisp product details, luxury advertising composition, realistic materials, no extra objects, no gibberish text, no watermark.",
+    "banglaPromptText": "[PRODUCT] কে স্থির কালো পানির ওপর ভাসমান অবস্থায় দেখাও; নিচে বৃত্তাকার ঢেউ, নিখুঁত স্টুডিও প্রতিফলন, ড্রামাটিক আলো ও লাক্সারি বিজ্ঞাপনের কম্পোজিশন।",
+    "instructionsEn": "Replace [PRODUCT] with a watch, perfume, skincare bottle, headphones, or beverage. Add the exact product label separately if text accuracy matters.",
+    "instructionsBn": "[PRODUCT]-এর জায়গায় ঘড়ি, পারফিউম, স্কিনকেয়ার বা অন্য পণ্যের নাম দিন।",
+    "category": "photo",
+    "supportedTools": [
+      "midjourney",
+      "flux",
+      "dalle"
+    ],
+    "parameters": {
+      "Aspect Ratio": "4:5",
+      "Style": "Luxury commercial product photography",
+      "Lighting": "Dramatic edge lighting"
+    },
+    "badge": "newlyAdded",
+    "sampleImageUrl": null,
+    "copyCount": 0,
+    "viewCount": 0,
+    "createdAt": "2026-10-26T12:00:00Z",
+    "tags": [
+      "product",
+      "advertising",
+      "luxury",
+      "water",
+      "commercial"
+    ]
+  },
+  {
+    "id": "seed-photo-011",
+    "titleEn": "Miniature Creator Desk Diorama",
+    "titleBn": "ক্ষুদ্র ক্রিয়েটর ডেস্ক ডায়োরামা",
+    "promptText": "A highly detailed miniature diorama of a modern content creator's desk inside a transparent display cube, tiny camera, laptop, headphones, warm desk lamp, miniature plants and neatly arranged accessories, realistic wood and metal materials, tilt-shift macro photography, soft studio lighting, charming collectible aesthetic, clean background, no readable text, no watermark.",
+    "banglaPromptText": "স্বচ্ছ ডিসপ্লে কিউবের ভেতরে ক্ষুদ্র কনটেন্ট ক্রিয়েটর ডেস্ক; ক্যামেরা, ল্যাপটপ, হেডফোন, গাছ ও ল্যাম্পসহ টিল্ট-শিফট ম্যাক্রো ফটোগ্রাফি।",
+    "instructionsEn": "Swap the desk theme for gamer, student, developer, artist, or photographer to create a themed series.",
+    "instructionsBn": "গেমার, শিক্ষার্থী, ডেভেলপার বা ফটোগ্রাফারের থিমে বদলে সিরিজ তৈরি করুন।",
+    "category": "photo",
+    "supportedTools": [
+      "midjourney",
+      "flux",
+      "dalle"
+    ],
+    "parameters": {
+      "Aspect Ratio": "1:1",
+      "Style": "Miniature diorama",
+      "Lens": "Tilt-shift macro"
+    },
+    "badge": "newlyAdded",
+    "sampleImageUrl": null,
+    "copyCount": 0,
+    "viewCount": 0,
+    "createdAt": "2026-10-26T12:00:00Z",
+    "tags": [
+      "miniature",
+      "diorama",
+      "desk setup",
+      "creator",
+      "macro"
+    ]
+  },
+  {
+    "id": "seed-photo-012",
+    "titleEn": "Cyberpunk Raincoat Character Portrait",
+    "titleBn": "সাইবারপাঙ্ক রেইনকোট চরিত্রের পোর্ট্রেট",
+    "promptText": "Cinematic character portrait of the reference subject wearing a futuristic technical raincoat in a rain-soaked cyberpunk alley, restrained neon signage, subtle holographic reflections on wet fabric, moody atmospheric haze, realistic face and skin, intricate garment construction, 50mm lens, dramatic side lighting, detailed but believable science-fiction photography, no logos, no text, no watermark.",
+    "banglaPromptText": "রেফারেন্স ব্যক্তিকে ভবিষ্যৎধর্মী রেইনকোটে বৃষ্টিভেজা সাইবারপাঙ্ক গলিতে দেখাও; ভেজা কাপড়ে নিওন প্রতিফলন, বাস্তব মুখ ও সিনেমাটিক সাইড লাইট।",
+    "instructionsEn": "Use a reference photo if you want the generated character to resemble the subject. Best in vertical portrait format.",
+    "instructionsBn": "চরিত্রটি রেফারেন্স ব্যক্তির মতো রাখতে ছবি ব্যবহার করুন।",
+    "category": "photo",
+    "supportedTools": [
+      "midjourney",
+      "flux",
+      "dalle"
+    ],
+    "parameters": {
+      "Aspect Ratio": "4:5",
+      "Style": "Cyberpunk cinematic",
+      "Lighting": "Neon side light"
+    },
+    "badge": "newlyAdded",
+    "sampleImageUrl": null,
+    "copyCount": 0,
+    "viewCount": 0,
+    "createdAt": "2026-10-26T12:00:00Z",
+    "tags": [
+      "cyberpunk",
+      "portrait",
+      "sci-fi",
+      "neon",
+      "rain"
+    ]
+  },
+  {
+    "id": "seed-photo-013",
+    "titleEn": "Editorial Travel Portrait in Old Dhaka",
+    "titleBn": "পুরান ঢাকার গলিতে ট্রাভেল পোর্ট্রেট",
+    "promptText": "Documentary-style travel portrait of the reference subject walking through a historic South Asian old-town lane, textured aged architecture, colorful rickshaw details softly visible in the background, natural late-afternoon light, authentic street atmosphere, candid expression, realistic skin texture, 35mm documentary lens, balanced colors, respectful local details, no stereotyped exaggeration, no text, no watermark.",
+    "banglaPromptText": "ঐতিহাসিক দক্ষিণ এশীয় পুরোনো শহরের গলিতে রেফারেন্স ব্যক্তির ট্রাভেল পোর্ট্রেট; পুরোনো স্থাপত্য, রিকশার রঙিন ডিটেইল ও বিকেলের স্বাভাবিক আলো।",
+    "instructionsEn": "Can be adapted to a specific city or neighborhood. Keep architecture and local details authentic rather than exaggerated.",
+    "instructionsBn": "যেকোনো শহর বা এলাকার নাম দিয়ে লোকেশন কাস্টমাইজ করুন।",
+    "category": "photo",
+    "supportedTools": [
+      "midjourney",
+      "flux",
+      "dalle",
+      "chatGpt"
+    ],
+    "parameters": {
+      "Aspect Ratio": "4:5",
+      "Lens": "35mm documentary",
+      "Lighting": "Late-afternoon natural light"
+    },
+    "badge": "newlyAdded",
+    "sampleImageUrl": null,
+    "copyCount": 0,
+    "viewCount": 0,
+    "createdAt": "2026-10-26T12:00:00Z",
+    "tags": [
+      "travel",
+      "Old Dhaka",
+      "street photography",
+      "South Asia"
+    ]
+  },
+  {
+    "id": "seed-photo-014",
+    "titleEn": "Y2K Flash Photography Portrait",
+    "titleBn": "Y2K ফ্ল্যাশ ফটোগ্রাফি পোর্ট্রেট",
+    "promptText": "Candid early-2000s Y2K-inspired flash photograph of the reference subject at a lively evening gathering, direct on-camera flash, slightly imperfect framing, natural candid expression, authentic compact-camera color rendering, subtle film grain, realistic skin texture, nostalgic date-night atmosphere, simple background details, avoid excessive smoothing, no text, no watermark.",
+    "banglaPromptText": "রেফারেন্স ব্যক্তির Y2K স্টাইলের ক্যাজুয়াল সন্ধ্যার ছবি; ডাইরেক্ট ক্যামেরা ফ্ল্যাশ, স্বাভাবিক অভিব্যক্তি, পুরোনো কমপ্যাক্ট ক্যামেরার রঙ ও সূক্ষ্ম গ্রেইন।",
+    "instructionsEn": "Use for nostalgic profile pictures and photo-dump aesthetics. A 4:5 crop works well for social feeds.",
+    "instructionsBn": "নস্টালজিক প্রোফাইল বা ফটো-ডাম্প স্টাইলের জন্য ব্যবহার করুন।",
+    "category": "photo",
+    "supportedTools": [
+      "midjourney",
+      "flux",
+      "dalle"
+    ],
+    "parameters": {
+      "Aspect Ratio": "4:5",
+      "Style": "Y2K compact-camera flash",
+      "Texture": "Subtle film grain"
+    },
+    "badge": "newlyAdded",
+    "sampleImageUrl": null,
+    "copyCount": 0,
+    "viewCount": 0,
+    "createdAt": "2026-10-26T12:00:00Z",
+    "tags": [
+      "Y2K",
+      "flash photography",
+      "nostalgia",
+      "portrait"
+    ]
+  },
+  {
+    "id": "seed-photo-015",
+    "titleEn": "Fantasy Giant Moon Over the Ocean",
+    "titleBn": "সমুদ্রের ওপর বিশাল চাঁদের ফ্যান্টাসি দৃশ্য",
+    "promptText": "Surreal cinematic landscape photograph of an enormous luminous moon hanging low above a quiet ocean, silver moonlight forming a long reflection across gentle waves, a tiny lone figure on a dark shoreline for scale, delicate sea mist, realistic atmospheric perspective, long-exposure photography, deep midnight blue tones, fine detail, awe-inspiring but physically coherent composition, no text, no watermark.",
+    "banglaPromptText": "নীরব সমুদ্রের ওপর বিশাল উজ্জ্বল চাঁদ, ঢেউয়ের ওপর রুপালি আলোর পথ, তীরে ছোট্ট একজন মানুষ, হালকা কুয়াশা ও সিনেমাটিক লং-এক্সপোজার দৃশ্য।",
+    "instructionsEn": "Use a 9:16 vertical composition for wallpapers or a 16:9 landscape crop for cinematic backgrounds.",
+    "instructionsBn": "ওয়ালপেপারের জন্য ৯:১৬ এবং সিনেমাটিক ব্যাকগ্রাউন্ডের জন্য ১৬:৯ ব্যবহার করুন।",
+    "category": "photo",
+    "supportedTools": [
+      "midjourney",
+      "flux",
+      "dalle"
+    ],
+    "parameters": {
+      "Aspect Ratio": "9:16 or 16:9",
+      "Style": "Surreal cinematic landscape",
+      "Lighting": "Moonlight"
+    },
+    "badge": "newlyAdded",
+    "sampleImageUrl": null,
+    "copyCount": 0,
+    "viewCount": 0,
+    "createdAt": "2026-10-26T12:00:00Z",
+    "tags": [
+      "fantasy",
+      "moon",
+      "ocean",
+      "landscape",
+      "wallpaper"
+    ]
+  },
+  {
+    "id": "seed-video-003",
+    "titleEn": "Seamless Outfit Transformation Reel",
+    "titleBn": "সিমলেস আউটফিট ট্রান্সফরমেশন রিল",
+    "promptText": "Create a 7-second vertical fashion transformation video using the reference subject. Start with the subject in a simple everyday outfit, then use a natural hand swipe across the lens as a transition into an elegant styled outfit in the same location. Keep the face, body proportions, background geometry, and camera position consistent. Smooth motion, realistic fabric movement, one continuous transition, no flicker, no extra fingers, no text, no watermark. 9:16, 24 fps.",
+    "banglaPromptText": "রেফারেন্স ব্যক্তিকে দিয়ে ৭ সেকেন্ডের ভার্টিক্যাল ফ্যাশন ট্রান্সফরমেশন ভিডিও তৈরি করো। হাত দিয়ে লেন্স ঢাকার ট্রানজিশনে সাধারণ পোশাক থেকে স্টাইলিশ পোশাকে বদলাবে; মুখ, শরীর ও ব্যাকগ্রাউন্ড একই থাকবে।",
+    "instructionsEn": "Use an image-to-video tool with a reference image. If supported, generate the start and end frames first.",
+    "instructionsBn": "রেফারেন্স ছবি দিয়ে image-to-video ব্যবহার করুন; সম্ভব হলে শুরু ও শেষের ফ্রেম আগে তৈরি করুন।",
+    "category": "video",
+    "supportedTools": [
+      "runway",
+      "sora",
+      "luma",
+      "kling"
+    ],
+    "parameters": {
+      "Duration": "7 seconds",
+      "Aspect Ratio": "9:16",
+      "Camera Motion": "Locked camera with hand-wipe transition",
+      "Frame Rate": "24 fps"
+    },
+    "badge": "newlyAdded",
+    "sampleImageUrl": null,
+    "copyCount": 0,
+    "viewCount": 0,
+    "createdAt": "2026-10-26T12:00:00Z",
+    "tags": [
+      "outfit transition",
+      "fashion",
+      "reels",
+      "transformation",
+      "vertical video"
+    ]
+  },
+  {
+    "id": "seed-video-004",
+    "titleEn": "Tiny World to Epic Landscape Zoom-Out",
+    "titleBn": "ক্ষুদ্র জগৎ থেকে বিশাল ল্যান্ডস্কেপ জুম-আউট",
+    "promptText": "Create a continuous cinematic zoom-out shot that begins on a single dew-covered leaf in extreme macro, reveals a tiny forest ecosystem, then pulls back to reveal the forest on a mountain, and finally a vast sunrise valley. Maintain spatial continuity and believable scale transitions, smooth stabilized camera movement, realistic mist and sunlight, detailed natural textures, no sudden scene cuts, no morphing objects, no text, no watermark. 9:16 vertical, 8–10 seconds.",
+    "banglaPromptText": "একটি শিশিরভেজা পাতার ম্যাক্রো শট থেকে ক্যামেরা ধীরে পিছিয়ে ক্ষুদ্র বন, পাহাড় এবং শেষে সূর্যোদয়ের বিশাল উপত্যকা দেখাবে; দৃশ্যের ধারাবাহিকতা বজায় থাকবে।",
+    "instructionsEn": "Best for text-to-video models that handle continuous camera movement. If the scale transition breaks, generate it as two connected clips.",
+    "instructionsBn": "ক্যামেরা মুভমেন্ট সমর্থন করে এমন ভিডিও মডেলে ব্যবহার করুন। সমস্যা হলে দুটি সংযুক্ত ক্লিপ তৈরি করুন।",
+    "category": "video",
+    "supportedTools": [
+      "runway",
+      "sora",
+      "luma",
+      "kling"
+    ],
+    "parameters": {
+      "Duration": "8–10 seconds",
+      "Aspect Ratio": "9:16",
+      "Camera Motion": "Continuous macro-to-wide pullback"
+    },
+    "badge": "newlyAdded",
+    "sampleImageUrl": null,
+    "copyCount": 0,
+    "viewCount": 0,
+    "createdAt": "2026-10-26T12:00:00Z",
+    "tags": [
+      "zoom out",
+      "nature",
+      "cinematic",
+      "transition",
+      "vertical video"
+    ]
+  },
+  {
+    "id": "seed-video-005",
+    "titleEn": "Luxury Perfume Cinematic Product Reveal",
+    "titleBn": "লাক্সারি পারফিউম সিনেমাটিক প্রোডাক্ট রিভিল",
+    "promptText": "Create a 6-second luxury product advertisement featuring [PRODUCT] on a reflective black stone pedestal. Begin in darkness, reveal the product with a slow controlled camera orbit, a narrow beam of light travels across its edges, fine mist drifts behind it, and subtle water droplets sparkle in slow motion. Preserve the product's shape and label, realistic reflections, premium studio lighting, smooth motion, no extra objects, no invented readable text, no watermark. 9:16 vertical.",
+    "banglaPromptText": "[PRODUCT]-কে কালো প্রতিফলিত পাথরের ওপর রেখে ৬ সেকেন্ডের লাক্সারি বিজ্ঞাপন তৈরি করো। অন্ধকার থেকে আলোয় পণ্যের রিভিল, ধীর ক্যামেরা অরবিট, পেছনে হালকা কুয়াশা ও বাস্তব প্রতিফলন থাকবে।",
+    "instructionsEn": "Replace [PRODUCT] and use a reference product image when possible to preserve packaging and branding.",
+    "instructionsBn": "[PRODUCT]-এর জায়গায় পণ্যের নাম দিন এবং প্যাকেজিং ঠিক রাখতে রেফারেন্স ছবি ব্যবহার করুন।",
+    "category": "video",
+    "supportedTools": [
+      "runway",
+      "sora",
+      "luma",
+      "kling"
+    ],
+    "parameters": {
+      "Duration": "6 seconds",
+      "Aspect Ratio": "9:16",
+      "Camera Motion": "Slow product orbit",
+      "Style": "Luxury commercial"
+    },
+    "badge": "newlyAdded",
+    "sampleImageUrl": null,
+    "copyCount": 0,
+    "viewCount": 0,
+    "createdAt": "2026-10-26T12:00:00Z",
+    "tags": [
+      "product ad",
+      "perfume",
+      "luxury",
+      "commercial",
+      "reels"
+    ]
+  },
+  {
+    "id": "seed-video-006",
+    "titleEn": "Rainy City Cinematic Walk",
+    "titleBn": "বৃষ্টিভেজা শহরে সিনেমাটিক হাঁটা",
+    "promptText": "Generate an 8-second cinematic tracking shot of the reference subject walking naturally through a rain-soaked city street at night. Camera follows from a three-quarter rear angle, reflections ripple beneath each step, passing headlights create soft bokeh, coat fabric moves naturally, and the subject briefly turns toward the camera near the end. Keep identity, anatomy, clothing, and street layout consistent, realistic foot contact, smooth stabilized motion, no flicker, no text, no watermark. 9:16 vertical.",
+    "banglaPromptText": "রাতে বৃষ্টিভেজা শহরের রাস্তায় রেফারেন্স ব্যক্তির স্বাভাবিক হাঁটার ৮ সেকেন্ডের ট্র্যাকিং শট; পানিতে আলো প্রতিফলিত হবে, পোশাক স্বাভাবিকভাবে নড়বে এবং শেষে ব্যক্তি ক্যামেরার দিকে তাকাবে।",
+    "instructionsEn": "Use image-to-video with a full-body reference image. Avoid fast camera moves for better anatomy consistency.",
+    "instructionsBn": "ফুল-বডি রেফারেন্স ছবি ব্যবহার করুন এবং শরীরের গঠন ঠিক রাখতে দ্রুত ক্যামেরা মুভমেন্ট এড়িয়ে চলুন।",
+    "category": "video",
+    "supportedTools": [
+      "runway",
+      "sora",
+      "luma",
+      "kling"
+    ],
+    "parameters": {
+      "Duration": "8 seconds",
+      "Aspect Ratio": "9:16",
+      "Camera Motion": "Smooth tracking shot",
+      "Lighting": "Night city reflections"
+    },
+    "badge": "newlyAdded",
+    "sampleImageUrl": null,
+    "copyCount": 0,
+    "viewCount": 0,
+    "createdAt": "2026-10-26T12:00:00Z",
+    "tags": [
+      "rain",
+      "cinematic walk",
+      "city",
+      "tracking shot",
+      "reels"
+    ]
+  },
+  {
+    "id": "seed-video-007",
+    "titleEn": "Satisfying Macro Dessert Assembly",
+    "titleBn": "সন্তোষজনক ম্যাক্রো ডেজার্ট তৈরির ভিডিও",
+    "promptText": "Create a 7-second appetizing macro food video of a pastry chef assembling a glossy chocolate dessert: smooth ganache pours slowly, a few crumbs fall naturally, a berry is placed precisely with tweezers, and the camera ends on a shallow-focus hero shot. Realistic viscosity and gravity, clean professional kitchen, soft side lighting, detailed textures, controlled slow motion, no extra fingers, no jump cuts, no text, no watermark. 9:16 vertical.",
+    "banglaPromptText": "৭ সেকেন্ডের ম্যাক্রো ফুড ভিডিওতে চকোলেট গ্যানাশ ধীরে ঢালা, কয়েকটি ক্রাম্ব পড়া, টুইজার দিয়ে বেরি বসানো এবং শেষে ডেজার্টের ক্লোজআপ দেখাও; পদার্থের গতি বাস্তবসম্মত হবে।",
+    "instructionsEn": "Great for food creators and cafe promos. Keep the action simple to reduce artifacts in generated hands and liquids.",
+    "instructionsBn": "ফুড ক্রিয়েটর ও ক্যাফে প্রমোর জন্য ভালো। হাত ও তরলের ত্রুটি কমাতে দৃশ্যটি সহজ রাখুন।",
+    "category": "video",
+    "supportedTools": [
+      "runway",
+      "sora",
+      "luma",
+      "kling"
+    ],
+    "parameters": {
+      "Duration": "7 seconds",
+      "Aspect Ratio": "9:16",
+      "Shot Type": "Macro slow motion",
+      "Lighting": "Soft side light"
+    },
+    "badge": "newlyAdded",
+    "sampleImageUrl": null,
+    "copyCount": 0,
+    "viewCount": 0,
+    "createdAt": "2026-10-26T12:00:00Z",
+    "tags": [
+      "food",
+      "macro",
+      "dessert",
+      "satisfying",
+      "slow motion"
+    ]
+  },
+  {
+    "id": "seed-video-008",
+    "titleEn": "Miniature City Building Time-Lapse",
+    "titleBn": "ক্ষুদ্র শহর তৈরির টাইম-ল্যাপ্স",
+    "promptText": "Create a seamless 8-second miniature architectural time-lapse showing a tiny modern city rising from an empty tabletop: foundations appear first, buildings assemble in logical stages, miniature roads and trees fill in, warm windows illuminate at dusk, and the camera slowly pushes forward. Keep scale consistent, construction steps coherent, crisp miniature materials, tilt-shift depth of field, stable geometry, no melting structures, no text, no watermark. 9:16 vertical.",
+    "banglaPromptText": "খালি টেবিলের ওপর ধাপে ধাপে ক্ষুদ্র আধুনিক শহর তৈরি হবে—প্রথমে ভিত্তি, তারপর ভবন, রাস্তা ও গাছ; শেষে সন্ধ্যায় জানালায় আলো জ্বলবে। স্কেল ও স্থাপত্য স্থির থাকবে।",
+    "instructionsEn": "Use for architecture, design, and satisfying-process content. If a single generation struggles with continuity, split into beginning and finished-city clips.",
+    "instructionsBn": "আর্কিটেকচার ও satisfying-process কনটেন্টে ব্যবহার করুন। ধারাবাহিকতা নষ্ট হলে শুরু ও শেষের আলাদা ক্লিপ বানান।",
+    "category": "video",
+    "supportedTools": [
+      "runway",
+      "sora",
+      "luma",
+      "kling"
+    ],
+    "parameters": {
+      "Duration": "8 seconds",
+      "Aspect Ratio": "9:16",
+      "Camera Motion": "Slow push-in",
+      "Style": "Tilt-shift miniature time-lapse"
+    },
+    "badge": "newlyAdded",
+    "sampleImageUrl": null,
+    "copyCount": 0,
+    "viewCount": 0,
+    "createdAt": "2026-10-26T12:00:00Z",
+    "tags": [
+      "miniature",
+      "architecture",
+      "timelapse",
+      "satisfying",
+      "design"
+    ]
+  },
+  {
+    "id": "seed-video-009",
+    "titleEn": "First-Person FPV Through a Fantasy Treehouse",
+    "titleBn": "ফ্যান্টাসি ট্রিহাউসের ভেতর এফপিভি ক্যামেরা মুভ",
+    "promptText": "Create a continuous 8-second first-person FPV camera flight through a whimsical treehouse village at sunrise. Glide between branches, pass glowing lanterns and wooden bridges, enter a cozy treehouse room, then exit through an open window toward misty treetops. Smooth controlled turns, believable momentum, consistent architecture, natural motion blur, detailed wood and foliage, soft volumetric sunlight, no abrupt cuts, no warped branches, no text, no watermark. 9:16 vertical.",
+    "banglaPromptText": "সূর্যোদয়ে কল্পনার ট্রিহাউস গ্রামের ভেতর দিয়ে ৮ সেকেন্ডের একটানা FPV শট; ডাল, লণ্ঠন ও কাঠের সেতু পেরিয়ে ঘরে ঢুকে জানালা দিয়ে কুয়াশাময় গাছের মাথার দিকে বেরিয়ে যাবে।",
+    "instructionsEn": "Use a model that supports camera-path prompting. Simplify the path if the generated clip warps objects.",
+    "instructionsBn": "ক্যামেরা-পাথ সমর্থনকারী মডেল ব্যবহার করুন; বস্তু বিকৃত হলে পথ সহজ করুন।",
+    "category": "video",
+    "supportedTools": [
+      "runway",
+      "sora",
+      "luma",
+      "kling"
+    ],
+    "parameters": {
+      "Duration": "8 seconds",
+      "Aspect Ratio": "9:16",
+      "Camera Motion": "Continuous FPV flight",
+      "Lighting": "Sunrise volumetric light"
+    },
+    "badge": "newlyAdded",
+    "sampleImageUrl": null,
+    "copyCount": 0,
+    "viewCount": 0,
+    "createdAt": "2026-10-26T12:00:00Z",
+    "tags": [
+      "FPV",
+      "fantasy",
+      "treehouse",
+      "camera movement",
+      "cinematic"
+    ]
+  },
+  {
+    "id": "seed-video-010",
+    "titleEn": "Before-and-After Room Makeover",
+    "titleBn": "রুম মেকওভার বিফোর-আফটার ভিডিও",
+    "promptText": "Create a 9-second vertical room makeover transformation from a plain, cluttered room into a warm modern minimalist workspace. Keep the camera locked in the exact same position. Show a smooth, believable sequence: clutter clears, desk and shelves appear, lighting warms, plants and accessories settle into place. Preserve room dimensions, windows, doors, and perspective. No people, no flickering furniture, no changing architecture, no text, no watermark. 9:16, smooth time-lapse.",
+    "banglaPromptText": "একই ক্যামেরা পজিশনে সাধারণ অগোছালো ঘর থেকে উষ্ণ মিনিমালিস্ট ওয়ার্কস্পেসে ৯ সেকেন্ডের মেকওভার; আসবাব, তাক, আলো ও গাছ ধাপে ধাপে বদলাবে, ঘরের গঠন অপরিবর্তিত থাকবে।",
+    "instructionsEn": "For best continuity, provide matching before and after images if the tool supports first/last frames.",
+    "instructionsBn": "সমর্থন থাকলে একই কোণ থেকে তোলা before ও after ছবি ব্যবহার করুন।",
+    "category": "video",
+    "supportedTools": [
+      "runway",
+      "sora",
+      "luma",
+      "kling"
+    ],
+    "parameters": {
+      "Duration": "9 seconds",
+      "Aspect Ratio": "9:16",
+      "Camera Motion": "Locked-off",
+      "Style": "Interior makeover time-lapse"
+    },
+    "badge": "newlyAdded",
+    "sampleImageUrl": null,
+    "copyCount": 0,
+    "viewCount": 0,
+    "createdAt": "2026-10-26T12:00:00Z",
+    "tags": [
+      "room makeover",
+      "interior design",
+      "before after",
+      "timelapse"
+    ]
+  },
+  {
+    "id": "seed-video-011",
+    "titleEn": "Silhouette to Glowing Cosmic Portrait",
+    "titleBn": "সিলুয়েট থেকে মহাজাগতিক পোর্ট্রেট ট্রান্সফরমেশন",
+    "promptText": "Create a 7-second artistic transformation video using the reference subject. Begin with a clean dark silhouette against a twilight background; tiny stars gradually illuminate along the outline, a subtle galaxy texture spreads across the clothing, and the scene resolves into a luminous cosmic portrait. Preserve the subject's face, pose, and proportions throughout. Smooth particle motion, restrained glow, realistic lighting, no face distortion, no flashing, no text, no watermark. 9:16 vertical.",
+    "banglaPromptText": "রেফারেন্স ব্যক্তির ডার্ক সিলুয়েট থেকে শুরু করে শরীরের চারপাশে তারার আলো জ্বলবে, পোশাকে গ্যালাক্সির টেক্সচার ছড়াবে এবং শেষে উজ্জ্বল কসমিক পোর্ট্রেট তৈরি হবে; মুখ ও ভঙ্গি একই থাকবে।",
+    "instructionsEn": "Use image-to-video and keep the transformation subtle to preserve facial consistency.",
+    "instructionsBn": "মুখের ধারাবাহিকতা বজায় রাখতে image-to-video এবং মৃদু ট্রান্সফরমেশন ব্যবহার করুন।",
+    "category": "video",
+    "supportedTools": [
+      "runway",
+      "sora",
+      "luma",
+      "kling"
+    ],
+    "parameters": {
+      "Duration": "7 seconds",
+      "Aspect Ratio": "9:16",
+      "Motion": "Gradual particle transformation",
+      "Style": "Cosmic fantasy"
+    },
+    "badge": "newlyAdded",
+    "sampleImageUrl": null,
+    "copyCount": 0,
+    "viewCount": 0,
+    "createdAt": "2026-10-26T12:00:00Z",
+    "tags": [
+      "transformation",
+      "cosmic",
+      "portrait",
+      "fantasy",
+      "particles"
+    ]
+  },
+  {
+    "id": "seed-video-012",
+    "titleEn": "Monsoon Rickshaw Ride Cinematic POV",
+    "titleBn": "বর্ষায় রিকশা ভ্রমণের সিনেমাটিক POV",
+    "promptText": "Create an 8-second cinematic first-person view from a slowly moving cycle rickshaw on a South Asian city street during gentle monsoon rain. Colorful rickshaw canopy details frame the top edge, water ripples across the road, shop lights and passing umbrellas reflect naturally, distant traffic remains soft, and the camera has subtle realistic vehicle movement. Authentic local atmosphere, no unsafe driving, stable perspective, no warped people, no text, no watermark. 9:16 vertical.",
+    "banglaPromptText": "বর্ষার হালকা বৃষ্টিতে দক্ষিণ এশীয় শহরের রাস্তায় ধীরে চলা সাইকেল রিকশা থেকে POV শট; রিকশার রঙিন ছাউনি, রাস্তায় পানির ঢেউ, দোকানের আলো ও ছাতার প্রতিফলন থাকবে।",
+    "instructionsEn": "Adapt the location details to the intended city. Keep motion gentle for a relaxing travel-reel effect.",
+    "instructionsBn": "নিজের শহর অনুযায়ী লোকেশনের ডিটেইল বদলান। আরামদায়ক ট্রাভেল রিলের জন্য গতি ধীর রাখুন।",
+    "category": "video",
+    "supportedTools": [
+      "runway",
+      "sora",
+      "luma",
+      "kling"
+    ],
+    "parameters": {
+      "Duration": "8 seconds",
+      "Aspect Ratio": "9:16",
+      "Camera Motion": "First-person gentle forward motion",
+      "Atmosphere": "Monsoon rain"
+    },
+    "badge": "newlyAdded",
+    "sampleImageUrl": null,
+    "copyCount": 0,
+    "viewCount": 0,
+    "createdAt": "2026-10-26T12:00:00Z",
+    "tags": [
+      "Bangladesh",
+      "rickshaw",
+      "monsoon",
+      "POV",
+      "travel reel"
+    ]
   }
 ]
