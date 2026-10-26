@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "id": "seed-photo-001",
     "titleEn": "Ultra-Realistic Golden Hour Street Portrait",
@@ -220,99 +220,6 @@
       "luxury",
       "branding",
       "packshot"
-    ]
-  },
-  {
-    "id": "seed-biz-001",
-    "titleEn": "High-Converting SaaS Landing Page Copywriter",
-    "titleBn": "হাই-কনভার্টিং ল্যান্ডিং পেজ কপিরাইটিং ফর্মুলা",
-    "promptText": "Act as a world-class Direct-Response Copywriter who studied under David Ogilvy and Eugene Schwartz. I am launching a new product: [INSERT PRODUCT / SERVICE]. Write a complete, high-converting landing page structure including: 1. A magnetic H1 headline that addresses the #1 painful problem and promises a tangible result. 2. A sub-headline explaining exactly how it works in 15 words. 3. Primary CTA button with low friction text. 4. \"Before vs. After\" transformation grid. 5. Overcoming 3 major buying objections. 6. Social proof placement blueprint. Write in a clear, compelling, conversational tone without fluffy buzzwords.",
-    "banglaPromptText": "একটি সফল ল্যান্ডিং পেজের জন্য বিক্রয় উপযোগী সম্পূর্ণ কপি তৈরি করার মাস্টার প্রম্পট। শিরোনাম, সাব-হেডলাইন, গ্রাহকের দ্বিধাদ্বন্দ্ব দূরীকরণ ও সি-টি-এ বাটন প্ল্যানিং।",
-    "instructionsEn": "Paste into ChatGPT 4o, Gemini 1.5 Pro, or Claude 3.5 Sonnet. Replace [INSERT PRODUCT / SERVICE] with your exact offer.",
-    "instructionsBn": "চ্যাটজিপিটি বা জেমিনাইতে [INSERT PRODUCT / SERVICE] এর স্থানে আপনার পণ্যের নাম দিয়ে রান করুন।",
-    "category": "businessProductivity",
-    "supportedTools": [
-      "chatGpt",
-      "gemini",
-      "claude"
-    ],
-    "parameters": {
-      "Tone": "Direct Response, High Urgency, Empathetic",
-      "Output Format": "Structured Markdown Wireframe"
-    },
-    "badge": "editorPick",
-    "sampleImageUrl": null,
-    "copyCount": 310,
-    "viewCount": 1240,
-    "createdAt": "2026-10-24T12:00:00Z",
-    "tags": [
-      "copywriting",
-      "saas",
-      "marketing",
-      "sales",
-      "conversion"
-    ]
-  },
-  {
-    "id": "seed-biz-002",
-    "titleEn": "Bangla Facebook Ad Campaign & Hook Generator",
-    "titleBn": "বাংলা ফেসবুক অ্যাড ক্যাম্পেইন ও ভাইরাল হুক জেনারেটর",
-    "promptText": "তুমি একজন অভিজ্ঞ ডিজিটাল মার্কেটিং স্পেশালিস্ট এবং ফেসবুক অ্যাড এক্সপার্ট। আমার ব্যবসার বিষয়: [পণ্য বা সেবার নাম লিখুন]। টার্গেট অডিয়েন্স: বাংলাদেশের ১৮-৩৫ বছর বয়সী অনলাইন ক্রেতা। আমার জন্য ৩টি ভিন্ন আঙ্গিকের ফেসবুক অ্যাড কপি লিখ: ১) ইমোশনাল স্টোরিটেলিং অ্যাপ্রোচ (সমস্যা ও সমাধান নিয়ে বাস্তব জীবনের গল্প), ২) ডিসকাউন্ট ও ইনস্ট্যান্ট আর্জেন্সি অ্যাপ্রোচ (সীমিত সময়ের অফার ও ক্যাশ অন ডেলিভারি সুবিধা), ৩) শিক্ষণীয় ইনফোগ্রাফিক স্টাইল পোস্ট ক্যাপশন। প্রতিটি কপির সাথে দৃষ্টি আকর্ষণকারী বাংলা হুক এবং কার্যকর Call To Action যুক্ত করবে।",
-    "banglaPromptText": "বাংলাদেশের ই-কমার্স ও ফেসবুক পেজের বিক্রয় বৃদ্ধির জন্য ৩ ধরণের আকর্ষণীয় ফেসবুক অ্যাড কপি তৈরির মাস্টার প্রম্পট।",
-    "instructionsEn": "Designed specifically for Bangladeshi online sellers and F-commerce entrepreneurs in fluent conversational Bangla.",
-    "instructionsBn": "চ্যাটজিপিটি বা ক্লদে হুবহু পেস্ট করুন এবং আপনার পণ্যের নাম দিন। দুর্দান্ত বাংলা ভাষায় অ্যাড কপি পাবেন।",
-    "category": "businessProductivity",
-    "supportedTools": [
-      "chatGpt",
-      "gemini",
-      "claude"
-    ],
-    "parameters": {
-      "Language": "Bengali (বাংলা)",
-      "Target Platform": "Facebook & Instagram Ads BD"
-    },
-    "badge": "communityFavorite",
-    "sampleImageUrl": null,
-    "copyCount": 265,
-    "viewCount": 1100,
-    "createdAt": "2026-10-23T12:00:00Z",
-    "tags": [
-      "bangla",
-      "facebook ads",
-      "ecommerce",
-      "marketing",
-      "f-commerce"
-    ]
-  },
-  {
-    "id": "seed-code-001",
-    "titleEn": "Flutter Clean Architecture Production Boilerplate",
-    "titleBn": "ফ্লাটার ক্লিন আর্কিটেকচার ফিচার জেনারেটর",
-    "promptText": "Act as a Senior Principal Flutter Architect. I want to build a feature called: [FEATURE_NAME]. Generate production-ready Flutter and Dart code following strict Clean Architecture with: 1. Domain Layer (Entities, Value Objects, Repository Interfaces). 2. Data Layer (Models with fromJson/toJson, RemoteDataSource, LocalDataSource with Hive/SharedPreferences, and Repository Implementation). 3. Presentation Layer (State management using Riverpod / ChangeNotifier, Screens, and clean re-usable Widgets). Include error handling with Result/Either types and no code placeholders.",
-    "banglaPromptText": "প্রফেশনাল ফ্লাটার ক্লিন আর্কিটেকচার অনুযায়ী যেকোনো ফিচার তৈরি করার পূর্ণাঙ্গ আর্কিটেকচার কোড জেনারেটর প্রম্পট।",
-    "instructionsEn": "Paste into Claude 3.5 Sonnet or ChatGPT 4o for pristine, compile-ready Flutter code architecture.",
-    "instructionsBn": "ক্লদ বা চ্যাটজিপিটিতে [FEATURE_NAME] এর নাম বদলে দিয়ে ব্যবহার করুন।",
-    "category": "coding",
-    "supportedTools": [
-      "claude",
-      "chatGpt",
-      "gemini"
-    ],
-    "parameters": {
-      "Standard": "Clean Architecture + Repository Pattern",
-      "Language": "Dart 3.x / Flutter 3.x"
-    },
-    "badge": "editorPick",
-    "sampleImageUrl": null,
-    "copyCount": 198,
-    "viewCount": 880,
-    "createdAt": "2026-10-20T12:00:00Z",
-    "tags": [
-      "flutter",
-      "dart",
-      "coding",
-      "architecture",
-      "developer"
     ]
   },
   {
